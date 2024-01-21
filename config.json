@@ -130,7 +130,9 @@
     "keyedit_precision_extra": 0.05,
     "keyedit_delimiters": ".,\\/!?%^*;:{}=`~()",
     "quicksettings": "sd_model_checkpoint,sd_vae,upscaler_for_img2img,CLIP_stop_at_last_layers",
-    "hidden_tabs": [],
+    "hidden_tabs": [
+      "Extensions"
+    ],
     "ui_reorder": "inpaint",
     "ui_extra_networks_tab_reorder": "",
     "localization": "zh_CN",
