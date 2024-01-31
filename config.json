@@ -28,7 +28,7 @@
     "save_init_img": false,
     "temp_dir": "",
     "clean_temp_dir_at_start": false,
-    "outdir_samples": "",
+    "outdir_samples": "test/nothing",
     "outdir_txt2img_samples": "outputs/txt2img-images",
     "outdir_img2img_samples": "outputs/img2img-images",
     "outdir_extras_samples": "outputs/extras-images",
