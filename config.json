@@ -136,7 +136,7 @@
     "ui_reorder": "inpaint",
     "ui_extra_networks_tab_reorder": "",
     "localization": "zh_CN",
-    "gradio_theme": "NoCrypt/miku",
+    "gradio_theme": "default",
     "show_progressbar": true,
     "live_previews_enable": true,
     "show_progress_grid": true,
