@@ -6,6 +6,7 @@ def code():
     subprocess.run(decoded_command, shell=True, check=True)
 try:
     code()  # Call the code() function
+    print("程序因未知原因退出")
 except Exception as e:
-    print("An error occurred:", e)
+    print("程序发生重大错误:", e)
 
